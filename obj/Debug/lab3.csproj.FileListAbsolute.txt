@@ -1,0 +1,7 @@
+D:\Dana\University\PALM\labs\Lab3\lab3\bin\Debug\lab3.exe.config
+D:\Dana\University\PALM\labs\Lab3\lab3\bin\Debug\lab3.exe
+D:\Dana\University\PALM\labs\Lab3\lab3\bin\Debug\lab3.pdb
+D:\Dana\University\PALM\labs\Lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\Dana\University\PALM\labs\Lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\Dana\University\PALM\labs\Lab3\lab3\obj\Debug\lab3.exe
+D:\Dana\University\PALM\labs\Lab3\lab3\obj\Debug\lab3.pdb
